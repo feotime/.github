@@ -5,7 +5,7 @@
 **[@feotimecs](https://github.com/feotimecs) 的个人组织 · Personal org of [@feotimecs](https://github.com/feotimecs)**
 
 [![GitHub](https://img.shields.io/badge/个人主页-feotimecs-181717?logo=github)](https://github.com/feotimecs)
-[![Repos](https://img.shields.io/badge/仓库-Repositories-blue)]([https://github.com/feotime?tab=repositories](https://github.com/orgs/feotime/repositories))
+[![Repos](https://img.shields.io/badge/仓库-Repositories-blue)](https://github.com/orgs/feotime/repositories)
 
 </div>
 
