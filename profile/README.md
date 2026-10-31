@@ -1,12 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# feotime
 
-**Here are some ideas to get you started:**
+**[@feotimecs](https://github.com/feotimecs) 的个人组织 · Personal org of [@feotimecs](https://github.com/feotimecs)**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![GitHub](https://img.shields.io/badge/个人主页-feotimecs-181717?logo=github)](https://github.com/feotimecs)
+[![Repos](https://img.shields.io/badge/仓库-Repositories-blue)](https://github.com/feotimecs?tab=repositories)
+
+</div>
+
+## 👋 About / 关于
+
+本组织是 [@feotimecs](https://github.com/feotimecs) 的个人组织，用于统一管理个人开源项目。
+
+## 📦 Projects / 项目
+
+<!-- 把仓库 Transfer 到本组织后，在这里列出主要项目 
+
+- **[project-a](链接)** — 一句话说明
+- **[project-b](链接)** — 一句话说明
+
+ -->
